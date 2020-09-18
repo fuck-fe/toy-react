@@ -1,2 +1,2 @@
 # toy-react
-It's just a fuck toy
+It's just a fuck toy 🪀
